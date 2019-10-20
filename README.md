@@ -1,6 +1,6 @@
 # Hacktoberfest-pull-request
 Create hacktober pull requests
-Regester on hacktoberfest event search on Google 
+Regester on hacktoberfest event search on Google </n>
 Step 1: fork this repository and follow me😉
 Step 2: open pull request Readme.md and add your name
 Step 3: commit the changes 
